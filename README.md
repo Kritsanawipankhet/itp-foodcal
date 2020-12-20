@@ -1,4 +1,4 @@
-# Calculate the food you eat (itp-foodcal)ß
+# Calculate the food you eat (itp-foodcal)
  ### Requirement System 
     - PHP 7.4.13 + 
         - PHPLibrary (PDO , PDO_MYSQL)
